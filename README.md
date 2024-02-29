@@ -1,3 +1,6 @@
 # The top tech companies' stocks Analysis
 
-I analyzed the top tech companies' stocks, like Apple, Google, and Microsoft, to figure out the best and safest times to buy and sell. Based on my study, the smart time to buy was when the stocks were undervalued – when their prices dropped temporarily despite a strong overall upward trend. For selling, I looked for when they were overvalued – when prices fell sharply in the short term and the long-term growth started to flatten. This matched the real historical data, showing a straightforward way to approach stock investment.
+I looked at the stocks of Apple, Google, and Microsoft. My analysis showed that the best time to buy was when the prices were lower than usual but the long-term trend was still going up. The best time to sell was when the prices started to drop quickly, even though they had been doing well over the year. For example, I found that the best time to buy Google was in 2014 when the prices were low, and the best time to sell was in early 2020 when the prices started falling fast.
+
+"GOOGL stock jumped 65% in 2021. But in 2022, Google stock dropped 39%."
+https://www.investors.com/news/technology/google-stock-buy-now/
